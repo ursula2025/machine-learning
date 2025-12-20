@@ -18,7 +18,7 @@ A análise partiu de uma investigação exploratória que revelou uma forte corr
 
 * **Performance do Modelo Campeão:** O modelo final, um **XGBoost Regressor otimizado**, alcançou um excelente **R² de 0.9288** no conjunto de teste, explicando quase 93% da variabilidade da produtividade real, com um erro médio de apenas 0.5 pontos.
 
-* **Principal Preditordo Modelo:** A análise do modelo campeão revelou que a `PONT_PRODUT_AUTOAVALIADA` foi, de longe, a variável mais importante para suas previsões, servindo como uma excelente aproximação para a produtividade real.
+* **Principal Preditor do Modelo:** A análise do modelo campeão revelou que a `PONT_PRODUT_AUTOAVALIADA` foi, de longe, a variável mais importante para suas previsões, servindo como uma excelente aproximação para a produtividade real.
 
 
 * **Ursula Machado Weinstein**
